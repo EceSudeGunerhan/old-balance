@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "ayakkabi_adi": "Paris",
+        "fiyat": 1250,
+        "urun_img": "../imgs/erkek/1.jpg",
+        "beden": ["36", "37", "38", "39", "40"],
+        "renk": ["Siyah", "Beyaz"],
+        "aciklama": "jkdsah aksd shfkjafjk hsdjkfh sfhjksddhf jshjfkfksjk fsjks fkjsdshfjksfjk  sf sjkjhfshfjksfsdsjkf sj s sdsfjksdhfhs sdf sddf sdsd fsd df sdsd f sd dfsdf sd f sd fsd f sd fsfsd f s f sf ssdfsdfs fdsf s fdsdf sdff s fsdf sdf sf sf s f sfsdsdfsf sd fsd f ds fsdfsdf sd dsfsdf sd f sdf ds f sdf sdfdsfsdfds sdf ds fsd f sd d"
+    },
+    {
+        "id": 2,
+        "ayakkabi_adi": "New York",
+        "fiyat": 1100,
+        "urun_img": "../imgs/erkek/2.jpg",
+        "beden": ["38", "39", "40", "41", "42"]
+    },
+    {
+        "id": 3,
+        "ayakkabi_adi": "London",
+        "fiyat": 1350,
+        "urun_img": "../imgs/kadin/1.jpg",
+        "beden": ["37", "38", "39", "40", "41"]
+    },
+    {
+        "id": 4,
+        "ayakkabi_adi": "Tokyo",
+        "fiyat": 950,
+        "urun_img": "../imgs/kadin/2.jpg",
+        "beden": ["36", "37", "38", "39", "40"]
+    },
+    {
+        "id": 5,
+        "ayakkabi_adi": "Berlin",
+        "fiyat": 1420,
+        "urun_img": "../imgs/cocuk/1.jpg",
+        "beden": ["38", "39", "40", "41", "42"]
+    },
+    {
+        "id": 6,
+        "ayakkabi_adi": "Rome",
+        "fiyat": 1180,
+        "urun_img": "../imgs/cocuk/2.jpg",
+        "beden": ["36", "37", "38", "39", "40"]
+    },
+    {
+        "id": 7,
+        "ayakkabi_adi": "../imgs/erkek/3.jpg",
+        "fiyat": 1280,
+        "urun_img": "www.abc.com/yedinciurun",
+        "beden": ["37", "38", "39", "40", "41"]
+    },
+    {
+        "id": 8,
+        "ayakkabi_adi": "Seoul",
+        "fiyat": 1050,
+        "urun_img": "../imgs/erkek/4.jpg",
+        "beden": ["36", "37", "38", "39", "40"]
+    },
+    {
+        "id": 9,
+        "ayakkabi_adi": "Moscow",
+        "fiyat": 1300,
+        "urun_img": "../imgs/kadin/3.jpg",
+        "beden": ["38", "39", "40", "41", "42"]
+    },
+    {
+        "id": 10,
+        "ayakkabi_adi": "Sydney",
+        "fiyat": 975,
+        "urun_img": "../imgs/kadin/4.jpg",
+        "beden": ["36", "37", "38", "39", "40"]
+    }
+]
