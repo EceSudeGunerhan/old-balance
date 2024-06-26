@@ -8,7 +8,7 @@ OldBalance ailesine katılarak tarzınızı tamamlayacak ayakkabıları keşfedi
 
 ###### Proje Kategorisi: E-ticaret
 ###### Referans Uygulama: https://www.newbalance.com.tr/
-###### Uygulama Adresi: https://www.newbalance.com.tr/
+###### Uygulama Adresi: http://vercel-six-blush.vercel.app
 ###### Grup adı: MakkaPakka
 ###### Proje Ekibi: Ece Sude Günerhan, Kübra Nur Uçar
 
