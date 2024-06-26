@@ -19,4 +19,4 @@ OldBalance ailesine katılarak tarzınızı tamamlayacak ayakkabıları keşfedi
 6. [Front-End](Front-End.md)
 7. [Back-End](Back-End.md)
 8. [Test](#baslik-3)
-9. [Geliştirici ve Kullanıcı Dökümasyonları](#baslik-3)
+9. [Geliştirici ve Kullanıcı Dökümasyonları](Geliştirici-ve-Kullanıcı-Dokümantasyonları.md)
