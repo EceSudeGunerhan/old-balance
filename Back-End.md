@@ -11,7 +11,7 @@ Ece Sude Günerhan Kodlama
 7. Ürünleri Sırala
 8. Favorilerden Çıkar
    
-Kübra Nur Uçar Tasarımlar
+Kübra Nur Uçar Kodlama
 
 1. Kayıt Ol
 2. Giriş Yap
@@ -20,4 +20,4 @@ Kübra Nur Uçar Tasarımlar
 5. Kategori
 6. Ödeme Yap
 7. Yazıları Listele
-8. Geçmiş Siparişler
+8. Sepetten Çıkar
