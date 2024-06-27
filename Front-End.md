@@ -1,3 +1,4 @@
+Front-End çatısı kullanıldı.
 
 # Ece Sude Günerhan Tasarımlar #
 1. Sepete Ekle
@@ -18,4 +19,4 @@
 5. Kategori
 6. Ödeme Yap
 7. Yazıları Listele
-8. Geçmiş Siparişler
+8. Sepetten Çıkar
