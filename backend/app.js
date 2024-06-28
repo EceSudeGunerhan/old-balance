@@ -2,22 +2,19 @@ var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
-var cors = require('cors'); // CORS paketini dahil edin
-// www dosyasını dahil edin
-
+var cors = require('cors'); 
 
 // MongoDB bağlantısı
 require('./api/models/db');
 require('./api/models/venue');
 require('./bin/www');
 
-// Route dosyalarını dahil edin
 var indexRouter = require('./routes/index');
 var apiRouter = require('./api/routes/index');
 
 var app = express();
 
-app.use(cors()); // CORS ayarlarını ekleyin
+app.use(cors()); 
 
 // Middleware kullanımı
 app.use('/api', apiRouter)
